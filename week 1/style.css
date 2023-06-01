@@ -1,0 +1,36 @@
+<style>
+    
+    .id2{
+font-style:oblique;
+color:green;
+padding:15px;
+margin:40px;
+
+
+}
+
+
+.id1{
+
+font-family:arial;
+font-style:italic;
+color:rgb(28, 28, 172);
+margin: 30px;
+padding: 10px;}
+
+body{
+
+    background-image:url(ggg.jpg);
+    height:400px;
+    width:100%;
+}
+
+.id5{
+    width:100px;
+    height:5%;
+}
+.cec{
+    padding:10px;
+}
+
+</style>
